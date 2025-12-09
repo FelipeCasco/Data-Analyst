@@ -1,5 +1,15 @@
 # 🔍 Data Analytics Portfolio – Summary / Resumo
 
+---
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+![Status](https://img.shields.io/badge/status-completed-brightgreen)  
+![Made With](https://img.shields.io/badge/made%20with-BI%20%26%20Data%20Viz-blue)  
+[![GitHub](https://img.shields.io/badge/GitHub-FelipeCasco-black?logo=github)](https://github.com/)  
+[![Email](https://img.shields.io/badge/Email-feliperochacasco%40yahoo.com.br-red)](mailto:feliperochacasco@yahoo.com.br)  
+
+---
+
 Below you will find a quick overview of the main projects currently available in this GitHub portfolio. Each project includes exploratory analysis, data engineering steps, and business insights supported by dashboards.
 
 Abaixo você encontrará uma visão rápida dos principais projetos atualmente disponíveis neste portfólio no GitHub. Cada projeto inclui análise exploratória, etapas de engenharia de dados e insights de negócio apoiados por dashboards.
@@ -9,6 +19,7 @@ Abaixo você encontrará uma visão rápida dos principais projetos atualmente d
 ### **1. The Shoe Paquetá – Data Analyst Dashboard Portfolio**
 
 *Sales performance analytics, customer segmentation, product trends and KPI dashboards.*
+https://github.com/FelipeCasco/Data-Analyst-The-Shoe-Paqueta----Dashboards-Portfolio-
 
 ### **2. Desafio BanVic – Data Analysis & Analytics Engineering**
 
@@ -100,21 +111,10 @@ Este espaço demonstra não apenas *o que eu construí*, mas *como eu penso*:
 Ele reflete minha evolução como profissional orientado a dados, combinando **análise de dados**, **estratégia de negócios**, **design de produtos digitais** e **inovação**.
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-![Status](https://img.shields.io/badge/status-completed-brightgreen)  
-![Made With](https://img.shields.io/badge/made%20with-BI%20%26%20Data%20Viz-blue)  
-[![GitHub](https://img.shields.io/badge/GitHub-FelipeCasco-black?logo=github)](https://github.com/)  
-[![Email](https://img.shields.io/badge/Email-feliperochacasco%40yahoo.com.br-red)](mailto:feliperochacasco@yahoo.com.br)  
-
-
-
 ## 🚀 Destaques
 - Experiência prática em **Business Intelligence** aplicado ao varejo.  
 - Projetos focados em **performance comercial, gestão estratégica e apoio à tomada de decisão**.  
 - Apresentação em evento de grande porte (**Data Driven Experience - BIMachine 2023**).  
-
----
-
 
 ---
 
