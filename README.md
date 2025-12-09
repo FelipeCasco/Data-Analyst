@@ -9,8 +9,9 @@ Abaixo você encontrará uma visão rápida dos principais projetos atualmente d
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)  
 ![Made With](https://img.shields.io/badge/made%20with-BI%20%26%20Data%20Viz-blue)  
 [![GitHub](https://img.shields.io/badge/GitHub-FelipeCasco-black?logo=github)](https://github.com/)  
-[![Email](https://img.shields.io/badge/Email-feliperochacasco%40yahoo.com.br-red)](mailto:feliperochacasco@yahoo.com.br)  
+[![Email](https://img.shields.io/badge/Email-feliperochacasco%40yahoo.com.br-red)](mailto:feliperochacasco@yahoo.com.br)
 
+---
 
 ## 📁 Current Projects / Projetos Atuais
 
