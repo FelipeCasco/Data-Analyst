@@ -1,6 +1,9 @@
 # 🔍 Data Analytics Portfolio – Summary / Resumo
 
----
+Below you will find a quick overview of the main projects currently available in this GitHub portfolio. Each project includes exploratory analysis, data engineering steps, and business insights supported by dashboards.
+
+Abaixo você encontrará uma visão rápida dos principais projetos atualmente disponíveis neste portfólio no GitHub. Cada projeto inclui análise exploratória, etapas de engenharia de dados e insights de negócio apoiados por dashboards.
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)  
@@ -8,11 +11,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-FelipeCasco-black?logo=github)](https://github.com/)  
 [![Email](https://img.shields.io/badge/Email-feliperochacasco%40yahoo.com.br-red)](mailto:feliperochacasco@yahoo.com.br)  
 
----
-
-Below you will find a quick overview of the main projects currently available in this GitHub portfolio. Each project includes exploratory analysis, data engineering steps, and business insights supported by dashboards.
-
-Abaixo você encontrará uma visão rápida dos principais projetos atualmente disponíveis neste portfólio no GitHub. Cada projeto inclui análise exploratória, etapas de engenharia de dados e insights de negócio apoiados por dashboards.
 
 ## 📁 Current Projects / Projetos Atuais
 
